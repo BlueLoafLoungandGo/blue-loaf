@@ -1,0 +1,9 @@
+BLUE LOAF STUDIO V2
+
+Abre index.html. Pulsa «Editar fotografías». Ahora cada una de las imágenes de las secciones y los 16 productos tiene su propia opción independiente.
+
+IMPORTANTE: Los cambios de la versión anterior no se transfieren automáticamente. Esta versión guarda las imágenes en IndexedDB del navegador. Usa Exportar mis fotos para conservar una copia.
+
+Para publicar cambios a todo el mundo hace falta actualizar los archivos del sitio público; este editor funciona localmente en el navegador y no publica por sí solo.
+
+No elimines los archivos assets ni los demás archivos de la carpeta.

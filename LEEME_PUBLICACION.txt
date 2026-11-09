@@ -1,0 +1,7 @@
+BLUE LOAF — VERSION CON FOTOGRAFIAS INTEGRADAS
+
+Abre index.html para ver la pagina. Las 18 fotografias personalizadas del archivo exportado estan incluidas en assets y se muestran sin importar el navegador. Los espacios no personalizados conservan sus fotografias anteriores.
+
+PUBLICACION GRATUITA: crea un repositorio publico en github.com, sube EL CONTENIDO de la carpeta blue-loaf-web (index.html, archivos .js, .css y carpeta assets) a la raiz del repositorio, y activa Settings > Pages > Deploy from a branch > main / (root). Espera a que GitHub indique la URL.
+
+IMPORTANTE: Los formularios, la preorden y la membresia son demostrativos; no reciben pedidos reales ni almacenan inscripciones. La calculadora usa macros estimados. El panel visual puede seguir usandose localmente, pero los nuevos cambios que hagas en el navegador no se publican automaticamente. Guarda una nueva exportacion para actualizar las imagenes integradas.
